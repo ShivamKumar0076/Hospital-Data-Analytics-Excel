@@ -169,14 +169,19 @@ This project demonstrates practical skills in:
        ⬇️      
  Data Standardization
        ⬇️
+       
  Data Validation
        ⬇️
+       
  PivotTable Analysis
-       ⬇️ 
+       ⬇️
+       
   PivotCharts
-       ⬇️      
+       ⬇️
+       
  Interactive Slicers 
        ⬇️
+       
  Hospital Analytics Dashboard
 
 ## 📊 Project Outcome
