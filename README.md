@@ -165,7 +165,8 @@ This project demonstrates practical skills in:
 
  Raw Hospital Data 
  
-       ⬇️       
+       ⬇️ 
+       
  Data Cleaning
  
        ⬇️      
@@ -182,9 +183,11 @@ This project demonstrates practical skills in:
        ⬇️
        
   PivotCharts
+  
        ⬇️
        
  Interactive Slicers 
+ 
        ⬇️
        
  Hospital Analytics Dashboard
