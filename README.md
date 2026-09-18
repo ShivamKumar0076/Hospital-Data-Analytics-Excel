@@ -164,19 +164,32 @@ This project demonstrates practical skills in:
 ## ⚒️ Analytic Workflow
 
  Raw Hospital Data
+ 
        ↓
+       
  Data Cleaning
+ 
        ↓
+       
  Data Standardization
+ 
        ↓
  Data Validation
+ 
        ↓
+       
  PivotTable Analysis
+ 
        ↓
- PivotCharts
+       
+  PivotCharts
+ 
        ↓
+       
  Interactive Slicers
+ 
        ↓
+       
  Hospital Analytics Dashboard
 
 ## 📊 Project Outcome
